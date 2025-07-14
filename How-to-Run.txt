@@ -1,0 +1,9 @@
+1. Open Git Bash (or CMD/PowerShell).
+2. Navigate to the root folder of your project
+3. Run the following command to compile all Java files:
+
+   javac com/financebookprogram/main/*.java com/financebookprogram/programs/*.java com/financebookprogram/models/*.java com/financebookprogram/utils/*.java
+
+4. After successful compilation, run the main program using:
+
+   java com.financebookprogram.main.financeBook
